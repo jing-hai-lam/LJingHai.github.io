@@ -7,3 +7,5 @@ About this site
 ```{r}
 1 + 1
 ```
+
+\![\](imgs/lab_sit_logo.png){width=80%}

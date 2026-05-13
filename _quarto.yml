@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Jing Hai temp_website"
+  favicon: favicon.png
   navbar:
+    logo: logo.png
     left:
       - href: index.qmd
         text: Home

@@ -1,8 +1,8 @@
 {
-  "hash": "f844827b73b901f08639eacd3257e16c",
+  "hash": "5fad1856b3c0b56d9424becae50b1b46",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"temp_website\"\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "markdown": "---\ntitle: \"temp_website\"\n---\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n---\ntitle: \"Home\"\n---\n\n# Welcome\n\nHi! My name is Jing Hai.\n\nI am a university student learning how to build websites using Quarto and GitHub Pages.\n\n## Interests\n\n- Technology\n- Gaming\n- AI\n- Coding\n\n## About This Website\n\nThis website was created for my lab assignment.\n\n\\![Image description\\](path/to/image.png){width=80%}\n\n\\![\\](imgs/lab_sit_logo.png){width=80%}\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
